@@ -1,0 +1,10 @@
+#caixa{
+    width: 300px;
+    height: 300px;
+    /*background: url("../img/camera.png");*/
+   /*background: linear-gradient(96deg,red, green,yellow);*/
+    background: radial-gradient(red,green,yellow);
+}
+#caixa h1{
+    background-color: rgba(255,255,255, 0); /*0.8 se trata da opacidade. 1 aparece a cor totalmente, e 0 a cor fica totalmente transparente.*/
+}
